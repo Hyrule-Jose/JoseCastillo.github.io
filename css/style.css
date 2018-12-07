@@ -1,0 +1,38 @@
+body{
+	background: #70ff80;
+	font-family: 'Baloo Bhaijaan', cursive;
+	font-size: 36pt
+}
+
+h1 {
+	text-align: center;
+	background: #b2ffbb;
+	padding: 5px;
+}
+
+nav ul{
+	margin: 0;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	text-align: center;
+	background: #b2ffbb;
+	padding: 5px 100px;
+}
+
+p{
+	text-align:center ;
+	padding: 5px;
+}
+
+#pic {
+	width:600px;
+	height: auto;
+	padding: 5px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
